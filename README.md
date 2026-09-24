@@ -10,6 +10,7 @@
 
 ```bash
 python hello.py
+```
 
 ## Требования
 Python 3.13+
